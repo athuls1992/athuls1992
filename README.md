@@ -1,4 +1,4 @@
-## Hi, I'm Mupa  👋
+## Hi, I'm Athul  👋
 
 I'm a full stack web developer with a positive attitude, a team player willing to learn new technologies, and open to new opportunities.
 
