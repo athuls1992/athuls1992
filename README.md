@@ -7,4 +7,4 @@ I'm a full stack web developer with a positive attitude, a team player willing t
 
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athuls1992&layout=compact&langs_count=6&theme=buefy)](https://github.com/athuls1992/github-readme-stats)
-![Mupa's github stats](https://github-readme-stats.vercel.app/api?username=athuls1992&theme=buefy&show_icons=true&count_private=true)
+![Athul's github stats](https://github-readme-stats.vercel.app/api?username=athuls1992&theme=buefy&show_icons=true&count_private=true)
